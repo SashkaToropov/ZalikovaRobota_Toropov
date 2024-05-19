@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="weight_hint">Введіть вагу (кг)</string>
+    <string name="height_hint">Введіть зріст (см)</string>
+    <string name="calculate_button">Розрахувати</string>
+    <string name="result_label">Результат:</string>
+    <string name="bmi_result">%1$.2f - %2$s</string>
+    <string name="excessive_underweight">Надмірний недовага</string>
+    <string name="underweight">Недовага</string>
+    <string name="normal_weight">Нормальна вага</string>
+    <string name="overweight">Надлишкова вага</string>
+    <string name="obesity">Ожиріння</string>
+    <string name="view_history">Переглянути історію</string>
+    <string name="history_activity">Історія розрахунків</string>
+    <string name="back">Повернутися</string>
+</resources>
+
